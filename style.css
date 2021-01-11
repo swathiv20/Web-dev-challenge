@@ -1,0 +1,210 @@
+.header {
+    font-family: 'Kaushan Script';
+    font-size: 22px;
+    text-align: center;
+    height: 300px;
+    width: 100%;
+    background-color:#0062e4 ;
+    
+}
+
+.header h1{
+    padding-top: 100px;
+}
+.navbar{
+    background-color: black;
+    height: 60px;
+    z-index: 999;
+    text-align: center;
+    
+    
+}
+.login{
+    padding-left: 70em;
+    padding-top: 10px;
+}
+.dev{
+  width: 100%;
+  height: 120em;
+  background-color: #f1f1f1;
+  text-align: center;
+}
+.dev h2{
+    padding-top: 20px;
+    font-family:Cursive ;
+}
+.space{
+    margin-top: 400px;
+}
+#flutter{
+    width: 20em;
+    height: 30em;
+  
+  padding-left: 10em;
+  float: left;
+  margin-left: 20px;
+}
+#devimg{
+    padding-top: 20px;
+   
+}
+#flutter h3{
+    padding-right: 30px;
+}
+#flutter1{
+    width: 20em;
+    height: 30em;
+    
+  padding-left: 20em;
+  float: left;
+  
+}
+#flutter1 h3{
+    padding-right: 30px;
+}
+#flutter2{
+    width: 20em;
+    height: 30em;
+    margin-top: 120px;
+  padding-left: 10em;
+  float: left;
+  
+}
+#flutter2 h3{
+    padding-right: 30px;
+}
+#flutter1 h3{
+    padding-right: 30px;
+}
+#flutter3{
+    width: 20em;
+    height: 30em;
+    margin-top: 120px;
+  padding-left: 20em;
+  float: left;
+  
+}
+#flutter3 h3{
+    padding-right: 30px;
+}
+
+#flutter4{
+    width: 20em;
+    height: 30em;
+    margin-top: 110px;
+  padding-left: 30em;
+  float: left;
+  
+}
+#flutter4 h3{
+    padding-right: 30px;
+}
+#flutter02{
+    width: 20em;
+    height: 30em;
+    margin-top: 395px;
+  padding-left: 10em;
+  float: left;
+  
+}
+#flutter02 h3{
+    padding-right: 30px;
+}
+#flutter01 h3{
+    padding-right: 30px;
+}
+#flutter03{
+    width: 20em;
+    height: 30em;
+    margin-top: 360px;
+  padding-left: 20em;
+  float: left;
+  
+}
+#flutter03 h3{
+    padding-right: 30px;
+}
+
+#flutter04{
+    width: 20em;
+    height: 30em;
+    margin-top: 370px;
+  padding-left: 30em;
+  padding-right: 30em;
+  float: left;
+  
+}
+#flutter04 h3{
+    padding-right: 30px;
+}
+
+.mar{
+    width: 100%;
+    height: 170em;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+.mar h2{
+    padding-top: 20px;
+    font-family:Cursive ;
+}
+
+#flutter20{
+    width: 20em;
+    height: 30em;
+    margin-top: 200px;
+  padding-left: 10em;
+  float: left;
+  
+}
+#flutter20 h3{
+    padding-right: 30px;
+}
+
+#flutter30{
+    width: 20em;
+    height: 30em;
+    margin-top: 200px;
+  padding-left: 20em;
+  float: left;
+  
+}
+#flutter30 h3{
+    padding-right: 30px;
+}
+
+
+#flutter40{
+    width: 20em;
+    height: 30em;
+    margin-top: 390px;
+  padding-left: 30em;
+  float: left;
+  
+}
+#flutter40 h3{
+    padding-right: 30px;
+}
+.bus{
+    width: 100%;
+    height: 150em;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+.bus h2{
+    padding-top: 20px;
+    font-family:Cursive ;
+}
+p{
+    font-family: Serif;
+}
+
+
+
+
+
+
+
+
+
+
